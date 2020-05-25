@@ -1,4 +1,4 @@
-# sharing-github
+# Photovoltaic Cell Modeling
 
 This code allows the user to simulate a photovoltaic cell behavior based on temperature, solar irradiation, and electrical circuit constraints.   
 
